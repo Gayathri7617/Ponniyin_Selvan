@@ -1,0 +1,50 @@
+body{
+    background:url("https://cdn.gulte.com/wp-content/uploads/2022/09/PS1-4.jpg");
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+#heading{
+    color:white ;
+    background:black ;
+    width:700px;
+    text-align:center ;
+    margin: auto;
+}
+#content{
+    display:flex;
+    background:rgba(0, 0, 0, 0.4) ;
+    height:400px;
+    width:1320px;
+    margin:auto;
+    margin-top:50px;
+    justify-content:space-between ;
+    
+}
+#Selvan img{
+    height:100px;
+    width:150px;
+    border:3px solid rgb(23, 155, 243);
+    border-top-left-radius:50% ;
+    border-bottom-right-radius:50% ;
+    margin-left:20px;
+    margin-top:10px;
+    
+}
+#Selvi img{
+    height:100px;
+    width:150px;
+    border:3px solid rgb(23, 155, 243);
+    border-top-right-radius:50% ;
+    border-bottom-left-radius:50% ;
+    margin-left:20px;
+    margin-top:10px;
+}
+#title{
+    color:white;
+    display:flex;
+    
+    width:1320px;
+    background: black;
+    margin:auto;
+    justify-content: space-around;
+}
